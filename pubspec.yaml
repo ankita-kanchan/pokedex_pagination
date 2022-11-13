@@ -1,0 +1,36 @@
+name: pagination_project
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  refresh_loadmore: ^2.0.5
+  http: ^0.13.5
+  flutter_staggered_grid_view: ^0.6.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  
